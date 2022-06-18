@@ -1,0 +1,639 @@
+[
+    {
+        "Plaats": "Almelo",
+        "Achternaam": "Hogenhout",
+        "Voornaam": "Klaas en Roos ",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Almere",
+        "Achternaam": "Van der Zee",
+        "Voornaam": "Leo en Danielle ",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Almere-Buiten",
+        "Achternaam": "Vaissaire",
+        "Voornaam": "Etienne en Orlaida",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Alphen a/d Rijn",
+        "Achternaam": "Toren",
+        "Voornaam": "Ipe en Daniëlle",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Amersfoort",
+        "Achternaam": "Klok",
+        "Voornaam": "Martin en Marlies",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Amsterdam-Zuidoost",
+        "Achternaam": "Thorlu-Bangura",
+        "Voornaam": "Seyle en Sajida",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Amsterdam-Zuidoost",
+        "Achternaam": "Van den Bogaardt",
+        "Voornaam": "Jan Willem en Priscilla",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Amsterdam-Noord (Espanol)",
+        "Achternaam": "Dovale",
+        "Voornaam": "Gerald en Judeska",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Amsterdam-Oost",
+        "Achternaam": "Van der Bosch",
+        "Voornaam": "Evert en Grace",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Amsterdam-West",
+        "Achternaam": "Vaessen",
+        "Voornaam": "Jim en Léomie",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Apeldoorn",
+        "Achternaam": "Vuyk",
+        "Voornaam": "Daniël en Anne",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Arnhem",
+        "Achternaam": "Fledderus",
+        "Voornaam": "Bert en Gerda",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Bergen op Zoom",
+        "Achternaam": "Entong",
+        "Voornaam": "Stevie en Patty",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Breda",
+        "Achternaam": "Houtman ",
+        "Voornaam": "Johan en Margreet",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Breda",
+        "Achternaam": "Saris",
+        "Voornaam": "Patrick en Lily (evangelist)",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Capelle / Alexander",
+        "Achternaam": "Sitaram",
+        "Voornaam": "Zachary en Radha",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Delft",
+        "Achternaam": "Brusse",
+        "Voornaam": "Henk en Soenita",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Den Bosch",
+        "Achternaam": "Naus",
+        "Voornaam": "Eric en Kathy",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Den Haag",
+        "Achternaam": "Van Vliet",
+        "Voornaam": "Kenneth en Zwaantje",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Den Helder",
+        "Achternaam": "Bulder",
+        "Voornaam": "Johan en Annetha",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Deventer",
+        "Achternaam": "von Oerthel",
+        "Voornaam": "Frans en Judith",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Dordrecht",
+        "Achternaam": "Grootveld",
+        "Voornaam": "Wim en Filomena",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Ede",
+        "Achternaam": "Smits",
+        "Voornaam": "Frans en Diana",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Eindhoven",
+        "Achternaam": "Bohorquez",
+        "Voornaam": "William en Monique",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Enschede",
+        "Achternaam": "Nies",
+        "Voornaam": "Johan en Marsha",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Gouda",
+        "Achternaam": "Postma",
+        "Voornaam": "Wouter en Marieke",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Groningen",
+        "Achternaam": "Majoor",
+        "Voornaam": "Peter en Hanneke",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Haarlem",
+        "Achternaam": "Rijksen",
+        "Voornaam": "Jaap en Laudate",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Harderwijk",
+        "Achternaam": "de Sain",
+        "Voornaam": "Daan en Kirsty",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Heerlen",
+        "Achternaam": "Van Donk",
+        "Voornaam": "Robin en Senra",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Hoofddorp",
+        "Achternaam": "Driever",
+        "Voornaam": "Maurice en Paola",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Hoogezand Sappemeer",
+        "Achternaam": "Dul",
+        "Voornaam": "Reinhard en Joyce",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Kampen (espaneol)",
+        "Achternaam": "Herrera",
+        "Voornaam": "Antonio en Adriana",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Leeuwarden",
+        "Achternaam": "van Rijn",
+        "Voornaam": "Dirk en Yvonne",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Leiden",
+        "Achternaam": "Hosiyar",
+        "Voornaam": "Sozdar en Katia",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Lelystad",
+        "Achternaam": "Witvoet",
+        "Voornaam": "Jan en Gerda",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Maastricht",
+        "Achternaam": "Königs",
+        "Voornaam": "Hans en Ellen",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Nieuwegein",
+        "Achternaam": "Maria",
+        "Voornaam": "Raymond en Sharine",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Nijkerk",
+        "Achternaam": "Huisman",
+        "Voornaam": "Wim en Rogate",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Nijmegen",
+        "Achternaam": "Verplak",
+        "Voornaam": "Patrick en Karin",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Oss",
+        "Achternaam": "Servinus",
+        "Voornaam": "Wenderly en Gieselle",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Purmerend",
+        "Achternaam": "Burghard",
+        "Voornaam": "Desmond en Carly",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Roermond",
+        "Achternaam": "Hamer",
+        "Voornaam": "Richard en Angela",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Roosendaal",
+        "Achternaam": "Gomez",
+        "Voornaam": "Luis en Chagnoux",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Rotterdam-West",
+        "Achternaam": "Molina",
+        "Voornaam": "Ursel en Lilian",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Rotterdam Zuid",
+        "Achternaam": "Van Vliet",
+        "Voornaam": "Ryan en Kayleigh",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Rotterdam",
+        "Achternaam": "Maduro",
+        "Voornaam": "Franklin en Magda",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Rotterdam IJsselmonde",
+        "Achternaam": "Obispo",
+        "Voornaam": "Reo en Miriam",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Schiedam",
+        "Achternaam": "Veenstra",
+        "Voornaam": "Jan en Irin",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Tilburg",
+        "Achternaam": "Zimmerman",
+        "Voornaam": "Ruthsell en Crisene",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Tilburg",
+        "Achternaam": "Boedhai",
+        "Voornaam": "Remy en Prisca",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Utrecht",
+        "Achternaam": "Schuitema",
+        "Voornaam": "Jan en Clarisse",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Utrecht-Oost",
+        "Achternaam": "Houtman",
+        "Voornaam": "Kevin en Ellen",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Veendam",
+        "Achternaam": "Sillé",
+        "Voornaam": "Josua en Tirsa",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Veenendaal",
+        "Achternaam": "Terpstra",
+        "Voornaam": "Arnoud en Renske",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Winschoten",
+        "Achternaam": "de Vreeze",
+        "Voornaam": "Kevin en Kimberly",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Zaandam",
+        "Achternaam": "Purperhart",
+        "Voornaam": "Mitchell en Jesselyn",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Zoetermeer",
+        "Achternaam": "Johanna",
+        "Voornaam": "Eugene en Haydee",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Zutphen",
+        "Achternaam": "Purperhart",
+        "Voornaam": "John en Carmen",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Zwolle",
+        "Achternaam": "Schuitema",
+        "Voornaam": "Nomdo en Karina",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Zwolle",
+        "Achternaam": "De Sain",
+        "Voornaam": "Etienne en Frony (assisting pastor)",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Zwolle",
+        "Achternaam": "Dekker",
+        "Voornaam": "Ben en Sieta (evangelist)",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Zwolle",
+        "Achternaam": "Draaijer",
+        "Voornaam": "Sarris en Hermien (evangelist)",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Zwolle",
+        "Achternaam": "Jonkhout",
+        "Voornaam": "Edwin en Ida (evangelist)",
+        "Binnen of buitenland": "Binnenland"
+    },
+    {
+        "Plaats": "Belgie Antwerpen ",
+        "Achternaam": "Kalpoe",
+        "Voornaam": "Anu and Rochelle",
+        "Binnen of buitenland": "Binnenland"
+    }
+]
+[
+    BELGIUM / BELGIË
+
+1.,
+pastoring in:
+
+2.
+de Wit, Arian and Mireille
+pastoring in:Belgie Gent
+
+CARIBEAN ISLANDS / NEDERLANDSE ANTILLEN
+
+1.
+Marchena, Franco and Stephanie
+Pastoring in: Aruba
+Mobile: +599 7779868
+Email: g.marchena@live.nl
+Website: eportaaruba.com 
+
+2.
+Martiszoon, Cedric and Marisela
+Pastoring in: Bonaire
+Mobile: +599-7851298
+Email: cedricrmartiszoon@hotmail.com<
+
+3.
+Marselia, Lindon and Adillée
+Pastoring in: Curaçao
+Mobile: +5999-5133179
+Email: lgmarselia@hotmail.com
+Website: www.iglesiaeporta.com
+
+4.
+Van der Woude, Harry en Singrid
+Pastoring in: Curacao
+Mobile: +599 95216938
+Email: hsvanderwoude@hotmail.com
+
+COLOMBIA
+
+1.
+Thielman, Naldo and Heidi
+Pastoring in: Medellin, Aranjuez, Colombia
+Mobile:
+Email: naldothielman@gmail.com
+
+CZECH REPUBLIC / TSJECHIE
+
+1.
+Kooijker, Bart and Wilma
+Pastoring in: Brno
+Mobile: +31-654297595 
+Email: bartkooijker@outlook.com
+Website: www.pottershouse.cz  
+ 
+
+DANMARK / DENEMARKEN
+
+1.
+De la Porte, Richard and Tamara
+Pastoring in: Odense
+Mobile: +45-40272291
+Email: richarddelaporte@gmail.com
+
+FRANCE / FRANKRIJK
+
+1.
+Diamonomosi, Zetout and Corisande
+Pastoring in: Paris
+Mobile: +33-652677405
+Email: zetudmnms@gmail.com
+
+FRENCH GUIANA / FRANS-GUYANA
+
+1.
+Coste, Florent and Sabine
+Pastoring in: Cayenne
+Mobile: +594 694016272 
+Email: FlorentCoste1998@gmail.com
+
+INDONESIA / INDONESIË
+
+1.
+Schuitema, Ralf and Rachelle
+mobile: +62-87724777 218
+Email: ralf.schuitema@gmail.com
+
+2.
+Hermawan, Jaka and Rita
+Pastoring in: Jakarta North
+
+NORWAY
+
+1.
+Siskens, Jan-Loek and Talina
+Pastoring in: Oslo;
+Mobile: +31-624240049
+Email: janloek@gmail.com  
+
+PERU
+
+1.
+Leyva, Jorge and Luz
+Pastoring in: Lima 
+Mobile: +51-1991003152
+Email: jleyva_acosta@hotmail.com  
+
+2.
+Rumiche, Daniel
+Pastoring in: Turjillo
+Website: www.lapuertaperu.com
+
+3.
+Angulo, Junior and Hanneke
+Pastoring in: San Juan de Lurigancho, Lima
+Email: junior.hk77@yahoo.com
+
+4.
+Moreno, Julio and Elizabeth
+pastoring in: San Juan de Mira Flores, Lima
+
+5.
+Moreno, Arturo and Shirley
+Pastoring in: Ate Vitarte, Lima 
+
+6.
+Marchena, Fermin and Karina
+pastoring in: Ezperanza, Trujillo 
+
+7.
+Moreno, Luis and Vanessa
+pastoring in: Lima
+
+8.
+De la Cruz, Danny and Kati
+pastoring in: los Chorillos, Lima
+
+9.
+Falcon, Alonso and Martha
+pastoring in: Lima
+
+PORTUGAL 
+
+1.
+Kischener, Gilson and Itsel
+pastoring in: Lissabon
+email : gilsonkischener40@outlook.pt
+website: www.aportalisboa.com 
+ 
+
+2.
+Majoor, Matthijs and Ilona
+pastoring in: Setúbal
+email : matthijsmajoor@gmail.com
+
+SOUTH AFRICA / ZUID-AFRIKA
+
+1.
+Botha, Riaan and Mirjam
+Pastoring in: Melville Johannesburg
+Mobile: +27-836809500
+Email: riaan.botha9@gmail.com
+Website: www.pottershousemelville.com
+
+2.
+Matthews, Norman and Desiree
+Pastoring in: Kraaifontein
+Mobile: +27-8-47308407
+Email: pastornormanmatthews@gmail.com
+Website: www.pottershousesouthafrica.com
+
+3.
+Davids, Nico and Frieda
+Pastoring in: Paarl
+Mobile: +27-725139028
+Fax: +27-218621589
+Email: pastornicodavids@gmail.com  
+Website: www.pottershousesouthafrica.com
+
+4.
+Adonis, Denovan and Moira
+Pastoring in: Wellington
+Mobile: +27824595695
+Website: www.pottershousesouthafrica.com
+
+5.
+Kasongo-Lwanda, Alain and Janine
+Pastoring in:Belmont Park
+Mobile: +27737376763
+Website: www.pottershousesouthafrica.com  
+
+6.
+Mahlangu, Pieter and Safiya
+Pastoring in Braamfontein Johannesburg 
+ 
+
+SURINAM
+
+1.
+Alimoestar, Paulus and Martha
+Pastoring in: Paramaribo
+Balonapark, Paramaribo
+Mobile: +597-8784611
+Email:paulusalimoestar@gmail.com
+
+2.
+Alimoestar, Romeo and Juliette
+Pastoring in: Paramaribo
+Mobile: +597-8543078
+Email: romeo.alimoestar@gmail.com
+
+3.
+Van Leeuwaarde, Clyde and Sharmila
+Pastoring in: Paramaribo
+Phone: +597 8903537
+Email: cvleeuwaarde@yahoo.com
+Website: www.dedeursuriname.com 
+
+4.
+Meme, Regilio and Naomi
+pastoring in: Wanica
+Phone: +597-8760552
+Email: meme91072@hotmail.com
+
+5.
+Draaijer, Arjan and Rachel
+pastoring in: Lelydorp
+Phone: +597-8599007
+Email: arjan.draaijer6@gmail.com
+Website: www.dedeurlelydorp.com
+
+6.
+Dwarkasing, Krish and Parisa
+pastoring in: Paramaribo
+Phone: +597-8871095
+Email: krish.dwarkasing@solcon.nl
+
+7. Pompea, Bernard and Jennifer
+pastoring in: Wanica
+Phone: +597-7654206
+Email: pompeavitolie@gmail.com
+
+8. Sijmor, Alfred & Bernadette
+pastoring in: Dijkveld, Paramaribo
+Phone: +597-8520075
+Email: alfred1965su@gmail.com
+]

@@ -1,74 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Card generator</title>
-  <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet" defer>
-  <script src="app.js"></script>
-  <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="data.json"></script>
+    <script src="app.js"></script>
 </head>
-
-<body class="overflow-hidden">
-
-  <div class="container h-screen w-screen flex">
-    <div class="nav h-screen w-80"></div>
-    <div class="slider h-screen w-full overflow-hidden">
-      <div class="steps flex w-full">
-        <div class="config h-screen w-full"></div>
-        <div class="convert h-screen w-full"></div>
-      </div>
-    </div>
-  </div>
-
-
-
-  <!-- <div class="flex flex-col items-center">
-    <p class="w-80 text-center font-bold bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500 text-4xl">Card gen</p>
-    <p class="w-60 text-left">test</p>
-    <p class="w-60 text-left">test</p>
-  </div>
-  <main class="w-full h-screen flex flex-col items-center">
-    <div id="card" class="w-full flex bg-gradient-to-tl from-blue-200 via-blue-400"
-      style="width: 1920px; height: 1080px;">
-      <div class="left w-1/2 flex flex-col">
-        <img src="source/Pastor-Nomdo-Schuitema-2.jpg" alt="" class="rounded-xl w-1/2 m-auto">
-        <div class="text m-auto">
-          <p class="text-white text-6xl">Nomdo Schuitema</p>
-          <p class="text-white text-2xl pt-2">Pastor en leider van de Nederlandse kerken</p>
-        </div>
-      </div>
-      <div class="right w-1/2 flex flex-col">
-        <img src="source/Pastor-Etienne-de-Sain.jpg" alt="" class="rounded-xl w-1/2 h-auto m-auto">
-        <div class="text m-auto">
-          <p class="text-white text-6xl">Etienne de Sain</p>
-          <p class="text-white text-2xl pt-2">Assistent pastor</p>
-        </div>
-      </div>
-    </div>
-    <div class="w-full flex">
-      <button id="dl-png"
-        class="mt-20 m-auto w-40 h-10 border-black rounded-3xl border-2 hover:text-white hover:bg-black duration-150">convert
-        to png</button>
-    </div>
-  </main> -->
-
-  <script>
-    document.getElementById("dl-png").onclick = function () {
-      const screenschotTarget = document.getElementById('card');
-
-      html2canvas(screenschotTarget).then((canvas) => {
-        const base64image = canvas.toDataURL("image/png");
-        var anchor = document.createElement('a');
-        anchor.setAttribute("href", base64image);
-        anchor.setAttribute("download", "my-image.png");
-        anchor.click();
-        anchor.remove();
-      })
-    }
-  </script>
+<body>
+    
 </body>
-
 </html>
